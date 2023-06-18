@@ -1,0 +1,17 @@
+nav{
+    font-size: 24px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    background-color: #1890FF;
+}
+h1{
+    padding: 20px;
+    color: #fff;
+}
+section{
+    padding: 20px;
+}
+.button-styles{
+   padding: 20px; 
+}

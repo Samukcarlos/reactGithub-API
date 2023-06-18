@@ -1,0 +1,11 @@
+img{
+    display: flex;
+    width: 247px;
+    height: 247px;    
+    padding: 20px 0 10px 0;
+}
+section{
+   
+    border-radius: 6px;
+    background-color: #D9D9D9;
+}
